@@ -1,0 +1,16 @@
+.env
+admin.env
+*.log
+audit.log
+data.db
+data.db-journal
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+.DS_Store
+# Generated MCP bundle (uploaded to GitHub Releases, not tracked in git)
+*.mcpb
